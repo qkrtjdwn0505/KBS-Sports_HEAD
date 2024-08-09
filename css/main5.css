@@ -205,7 +205,7 @@ a {
         color: #4b79ee;
     }
     #head_layout .inner .mobile-box a{
-        display: none;
+        /*display: none;*/
     }
 }
 
